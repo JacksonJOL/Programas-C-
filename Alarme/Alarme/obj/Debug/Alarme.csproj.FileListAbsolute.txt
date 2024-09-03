@@ -1,0 +1,7 @@
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\bin\Debug\Alarme.exe.config
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\bin\Debug\Alarme.exe
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\bin\Debug\Alarme.pdb
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\obj\Debug\Alarme.csproj.AssemblyReference.cache
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\obj\Debug\Alarme.csproj.CoreCompileInputs.cache
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\obj\Debug\Alarme.exe
+C:\Users\SuasVendas\source\repos\Alarme\Alarme\obj\Debug\Alarme.pdb
